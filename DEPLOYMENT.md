@@ -5,6 +5,8 @@
 1. 本地跑着的看板，怎么发给别人一个链接？
 2. 代码放到 GitHub 之后，怎么对外发布？GitHub 是不是只能托管静态站？有腾讯云的话能不能打通？能不能尽量全自动？
 
+> **Cloudflare 专项路由**（Quick Tunnel / Named Tunnel / Pages / DNS·CDN、与 Streamlit 怎么搭配）：见 [`CLOUDFLARE.md`](./CLOUDFLARE.md)。
+
 本地开发启动：
 
 ```bash
